@@ -9,9 +9,9 @@ app_author_name - 				QuickSilver
 app_author_organizational - 	Quicksilver-lab
 app_author_organization - 		Quicksilver-lab
 app_author_locality - 			Quicksilver-lab
-app_author_state - 				Islamabad
-app_author_country - 			Pakistan
-app_password - 					QuickSilver
+app_author_state - 				[REDACTED]
+app_author_country - 			[REDACTED]
+app_password - 					[REDACTED]
 app_versionName - 				versionName "1.0"
 app_versionCode - 				100
 
