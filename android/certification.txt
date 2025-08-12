@@ -1,0 +1,21 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the Barbie Pass 1.0
+---------------------------------------------------
+
+app_name - 						Barbie Pass
+app_alias - 					Barbie PAssword Manager
+app_author_name - 				QuickSilver
+app_author_organizational - 	Quicksilver-lab
+app_author_organization - 		Quicksilver-lab
+app_author_locality - 			Quicksilver-lab
+app_author_state - 				Islamabad
+app_author_country - 			Pakistan
+app_password - 					QuickSilver
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+Secure and Safe Password Manager with Barbie themed Design.
+---------------------------------------------------
+

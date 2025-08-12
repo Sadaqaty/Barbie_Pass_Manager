@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Girly Anime Password Manager</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>Women Password Manager</h1>
+        <p>Your cute and secure place to store passwords</p>
+        <p>Because You Can't Remember them 🤣</p>
+        <img
+          src="assets/images/anime-avatar.png"
+          alt="Anime Avatar"
+          class="avatar"
+        />
+      </header>
+
+      <main>
+        <section class="add-password">
+          <h2>Add New Password</h2>
+          <input type="text" id="website" placeholder="Website/Service Name" />
+          <input type="text" id="username" placeholder="Username" />
+          <input type="password" id="password" placeholder="Password" />
+          <button id="add-btn">Add Password</button>
+        </section>
+
+        <section class="password-list">
+          <h2>Your Saved Passwords</h2>
+          <ul id="passwords"></ul>
+        </section>
+
+        <section class="settings">
+          <h2>Settings</h2>
+          <button id="toggle-music">Toggle Music</button>
+        </section>
+
+        <section class="credits">
+          <h2>Credits</h2>
+          <p>Developed by <strong>QuickSilver</strong></p>
+          <p>
+            Visit
+            <a href="https://github.com/Quicksilver-lab"
+              >QuickSilver-lab on GitHub</a
+            >
+          </p>
+          <p>
+            Follow
+            <a href="https://instagram.com/quicksilver437"
+              >QuickSilver on Instagram</a
+            >
+          </p>
+        </section>
+      </main>
+    </div>
+
+    <audio id="background-music" loop>
+      <source src="assets/music/instrumental.mp3" type="audio/mpeg" />
+    </audio>
+
+    <script src="script.js"></script>
+  </body>
+</html>
